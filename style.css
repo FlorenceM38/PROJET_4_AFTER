@@ -1028,6 +1028,16 @@ h4 {
     }
 }
 
+
+
+#bloc-2-services h2
+{
+    font-size: 23px;
+    width: 70%;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
