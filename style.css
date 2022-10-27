@@ -1038,6 +1038,12 @@ h4 {
     padding-bottom: 20px;
 }
 
+footer li
+
+{
+    margin-top: 8px;
+}
+
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
