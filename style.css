@@ -1054,4 +1054,8 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+
+    p {
+        font-size: 12px;
+    }
 }
