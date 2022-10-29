@@ -1078,6 +1078,11 @@ footer a
     color: #FCDFDA!important;
 }
 
+.img
+{
+    width: 270px;
+    height: 270px;
+}
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
