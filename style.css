@@ -1059,6 +1059,11 @@ cite
 
 }
 
+.ombre_texte
+{
+    color: rgb(59, 59, 59)!important;
+}
+
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
