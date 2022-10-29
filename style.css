@@ -1056,7 +1056,9 @@ color: #2b2828;
 
 cite
 {
+    font-style: initial;
     font-size: 20px;
+    color: rgb(83, 77, 77);
 
 }
 
