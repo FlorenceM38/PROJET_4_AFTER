@@ -1105,6 +1105,15 @@ footer a
     p {
         font-size: 12px;
     }
+
+    .img_portfolio
+
+    {
+        width: 95%;
+        margin-left: 2.5%;
+        margin-right: 2.5%;
+    }
+
     
 }
 
@@ -1115,5 +1124,14 @@ footer a
 
     p {
         font-size: 12px;
+    }
+
+    .img_portfolio
+
+    {
+        width: 95%;
+        height: 80%;
+        margin-left: 2.5%;
+        margin-right: 2.5%;
     }
 }
