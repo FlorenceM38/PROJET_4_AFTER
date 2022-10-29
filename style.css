@@ -1083,6 +1083,19 @@ footer a
     width: 270px;
     height: 270px;
 }
+
+.img_logo
+{
+    width: 100px;
+    height: 100px;
+}
+
+.img_logo_ban
+{
+    width: 217px;
+    height: 40px;
+}
+
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
