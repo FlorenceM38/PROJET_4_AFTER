@@ -1038,11 +1038,12 @@ h4 {
     padding-bottom: 20px;
 }
 
-footer li
+footer li 
 
 {
     margin-top: 8px;
     min-width: 48px;
+    
 }
 
 q
@@ -1059,9 +1060,20 @@ cite
 
 }
 
-.ombre_texte
+.texte_sombre
 {
     color: rgb(59, 59, 59)!important;
+}
+
+footer a
+
+{
+    color: rgb(59, 59, 59)!important;
+}
+
+.h2_orange
+{
+    color: #FCDFDA!important;
 }
 
 @media (max-width: 400px) {
