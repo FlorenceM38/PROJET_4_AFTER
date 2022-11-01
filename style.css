@@ -1149,10 +1149,11 @@ footer a {
         margin-right: 2.5%;
     }
 
-    .social
+    .footer_contact span
     {
-        min-width: 48px;
-        min-height: 48px;
+        width: 48px;
+        height: 48px;
+        margin-top: 8px;
     }
 
 
