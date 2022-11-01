@@ -1149,7 +1149,11 @@ footer a {
         margin-right: 2.5%;
     }
 
-    
+    .social
+    {
+        min-width: 48px;
+        min-height: 48px;
+    }
 
 
 }
