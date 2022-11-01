@@ -1084,11 +1084,11 @@ h4 {
     padding-bottom: 20px;
 }
 
-footer li {
+/*footer li {
     margin-top: 8px;
-    min-width: 48px;
+    
 
-}
+}*/
 
 q {
     line-height: 1em;
@@ -1154,6 +1154,11 @@ footer a {
         width: 48px;
         height: 48px;
         margin-top: 8px;
+    }
+
+    footer li 
+    {
+        height: 48px;
     }
 
 
